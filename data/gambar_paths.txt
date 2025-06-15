@@ -1,0 +1,4 @@
+images/timotod.jpg
+images/Basis data.jpg
+images/Untitled Diagram.png
+images/R.png
